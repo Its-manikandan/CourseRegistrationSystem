@@ -82,14 +82,19 @@ It runs on http://127.0.0.1:5500
 
 Open browser → Live Server URL → Interact with the system.
 Use Postman or browser to test full workflow.
+
 ## Screenshots
 
+<img width="1491" height="844" alt="Screenshot 2025-10-31 143011" src="https://github.com/user-attachments/assets/f6a6ec1d-5240-4daa-97b5-9aa6888659ff" />
 
-<img width="1362" height="711" alt="Screenshot 2025-10-31 143130" src="https://github.com/user-attachments/assets/2fb6ee93-f189-4a67-85a3-333384dd0b70" />
-<img width="1376" height="788" alt="Screenshot 2025-10-31 143113" src="https://github.com/user-attachments/assets/b1419c23-0929-4658-a33d-03898e3360db" />
-<img width="1132" height="643" alt="Screenshot 2025-10-31 143100" src="https://github.com/user-attachments/assets/eafa8a9b-6738-40e4-b3cc-da10559af5b5" />
-<img width="1663" height="866" alt="Screenshot 2025-10-31 143046" src="https://github.com/user-attachments/assets/739466c1-1551-4fe1-a6b9-5bdb73991e96" />
-<img width="1491" height="844" alt="Screenshot 2025-10-31 143011" src="https://github.com/user-attachments/assets/33545933-f8ab-484f-92c0-01657e20ca4e" />
+<img width="1663" height="866" alt="Screenshot 2025-10-31 143046" src="https://github.com/user-attachments/assets/361b2dec-7721-41bb-8613-a9063e3b21c4" />
+
+<img width="1132" height="643" alt="Screenshot 2025-10-31 143100" src="https://github.com/user-attachments/assets/35ede4db-95f0-4297-b4b1-432da0980e32" />
+
+<img width="1376" height="788" alt="Screenshot 2025-10-31 143113" src="https://github.com/user-attachments/assets/3804219b-32a4-493f-9a97-76ec05b2ee3e" />
+
+<img width="1362" height="711" alt="Screenshot 2025-10-31 143130" src="https://github.com/user-attachments/assets/6d7b3d0d-a2b2-4b0e-a655-0fd1484bc36d" />
+
 
 
 
