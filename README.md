@@ -85,15 +85,12 @@ Use Postman or browser to test full workflow.
 ## Screenshots
 
 
-!("https://github.com/user-attachments/assets/8c45a340-054c-4f79-863a-18246000d5e5")
+<img width="1362" height="711" alt="Screenshot 2025-10-31 143130" src="https://github.com/user-attachments/assets/2fb6ee93-f189-4a67-85a3-333384dd0b70" />
+<img width="1376" height="788" alt="Screenshot 2025-10-31 143113" src="https://github.com/user-attachments/assets/b1419c23-0929-4658-a33d-03898e3360db" />
+<img width="1132" height="643" alt="Screenshot 2025-10-31 143100" src="https://github.com/user-attachments/assets/eafa8a9b-6738-40e4-b3cc-da10559af5b5" />
+<img width="1663" height="866" alt="Screenshot 2025-10-31 143046" src="https://github.com/user-attachments/assets/739466c1-1551-4fe1-a6b9-5bdb73991e96" />
+<img width="1491" height="844" alt="Screenshot 2025-10-31 143011" src="https://github.com/user-attachments/assets/33545933-f8ab-484f-92c0-01657e20ca4e" />
 
-!("https://github.com/user-attachments/assets/8ee8651b-3ab2-4e4b-a6b2-24aade539f57")
-
-("https://github.com/user-attachments/assets/00421704-4444-4426-a4cc-98b2fdd4d005")
-
-!("https://github.com/user-attachments/assets/ed8842ea-96b4-4fb9-a7e1-d8b7d41793d4")
-
-!("https://github.com/user-attachments/assets/971c09b6-9bf3-43f7-aed4-679422c79bd7")
 
 
 ## Demo
